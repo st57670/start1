@@ -5,4 +5,4 @@
 <BODY bgcolor="CCFFFF" face="Monotype Corsiva">
 <h1 align="center">Александр Пушкин <bg>
 <marquee >из поэмы "Медный всадник"</marquee></h1>
-<hr no shade width=" 80%" color="orange" size="10" >
+<hr no shade width=" 80%" color="orange" size="20" >
